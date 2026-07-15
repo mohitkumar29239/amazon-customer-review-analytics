@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/banner.png" alt="Amazon Customer Review Analytics Banner" width="100%">
+</p>
+
+<br>
+
 # 🧠 Amazon Customer Review Analytics
 
 ### Exploratory Text Analysis (ETA) & Sentiment Analysis using Natural Language Processing (NLP)
