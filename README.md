@@ -273,10 +273,10 @@ amazon-customer-review-analytics/
 │   └── amazon_review.csv
 │
 ├── notebooks/
-│   └── 01_Amazon_Review_Analytics.ipynb
+│   └── Amazon_Customer_Review_Analytics.ipynb
 │
 ├── reports/
-│   └── 01_Amazon_Review_Analytics.pdf
+│   └── Amazon_Customer_Review_Analytics.pdf
 │
 ├── images/
 │   ├── review_length_distribution.png
