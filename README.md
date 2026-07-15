@@ -4,7 +4,25 @@
 
 <br>
 
-# 🧠 Amazon Customer Review Analytics
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/NLP-NLTK-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TextBlob-Sentiment-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge">
+
+</p>
+
+<h1 align="center">
+🧠 Amazon Customer Review Analytics
+</h1>
+
+<p align="center">
+Exploratory Text Analysis • Sentiment Analysis • Business Intelligence
+</p>
 
 ### Exploratory Text Analysis (ETA) & Sentiment Analysis using Natural Language Processing (NLP)
 
@@ -21,7 +39,24 @@ The project follows an end-to-end analytics workflow that includes data understa
 Instead of relying only on product ratings, the analysis explores customer review text to understand customer opinions, identify recurring product features, measure customer satisfaction, and support evidence-based business decision-making.
 
 ---
+## 📚 Table of Contents
 
+- Project Overview
+- Business Problem
+- Project Objectives
+- Dataset Information
+- Technologies Used
+- Project Workflow
+- Key Results
+- Project Statistics
+- Business Insights
+- Strategic Recommendations
+- Project Visualizations
+- Project Structure
+- Installation
+- Future Improvements
+- Author
+---
 # 🎯 Business Problem
 
 E-commerce platforms receive thousands of customer reviews every day. While numerical ratings provide a general indication of customer satisfaction, they do not explain **why customers are satisfied or dissatisfied**.
@@ -174,7 +209,18 @@ The analysis produced several meaningful findings regarding customer opinions, p
 These results indicate that customers are generally satisfied with the product and primarily evaluate it based on its real-world performance rather than cosmetic features.
 
 ---
+## 📊 Project Statistics
 
+| Metric | Value |
+|---------|------:|
+| Customer Reviews | 4,913 |
+| Features | 12 |
+| NLP Techniques | 8+ |
+| Visualizations | 10 |
+| Sentiment Classes | 3 |
+| Business Insights | 6 |
+| Strategic Recommendations | 6 |
+---
 ## 💼 Business Insights
 
 The analytical findings demonstrate that customer reviews provide valuable information beyond numerical ratings.
@@ -285,6 +331,7 @@ amazon-customer-review-analytics/
 │   └── Amazon_Customer_Review_Analytics.pdf
 │
 ├── images/
+│   ├── banner.png
 │   ├── review_length_distribution.png
 │   ├── top_20_words.png
 │   ├── word_cloud.png
@@ -385,3 +432,15 @@ Special thanks to **CodeAlpha** for providing the opportunity to work on this pr
 ---
 
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting this repository.
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+Feedback and suggestions are always welcome.
+
+Happy Learning! 🚀
